@@ -1,0 +1,4 @@
+git config --global user.name
+
+@Rushikesh MINGW64 ~/OneDrive/Desktop/Git in one video
+$  ^[[200~git remote add origin https://github.com/Rushikesh-07/git-in-one-video.git~
